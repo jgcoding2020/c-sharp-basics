@@ -1,0 +1,6 @@
+C:\Users\jgard\My Programs\Programs C#\Generic_Types\bin\Debug\Generic_Types.exe.config
+C:\Users\jgard\My Programs\Programs C#\Generic_Types\bin\Debug\Generic_Types.exe
+C:\Users\jgard\My Programs\Programs C#\Generic_Types\bin\Debug\Generic_Types.pdb
+C:\Users\jgard\My Programs\Programs C#\Generic_Types\obj\Debug\Generic_Types.csproj.CoreCompileInputs.cache
+C:\Users\jgard\My Programs\Programs C#\Generic_Types\obj\Debug\Generic_Types.exe
+C:\Users\jgard\My Programs\Programs C#\Generic_Types\obj\Debug\Generic_Types.pdb
