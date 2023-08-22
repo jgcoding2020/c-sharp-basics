@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Collections_List
+namespace List_Methods
 {
     class Program
     {

@@ -1,6 +1,0 @@
-C:\Users\jgard\My Programs\Programs C#\Collections_List\bin\Debug\Collections_List.exe.config
-C:\Users\jgard\My Programs\Programs C#\Collections_List\bin\Debug\Collections_List.exe
-C:\Users\jgard\My Programs\Programs C#\Collections_List\bin\Debug\Collections_List.pdb
-C:\Users\jgard\My Programs\Programs C#\Collections_List\obj\Debug\Collections_List.csproj.CoreCompileInputs.cache
-C:\Users\jgard\My Programs\Programs C#\Collections_List\obj\Debug\Collections_List.exe
-C:\Users\jgard\My Programs\Programs C#\Collections_List\obj\Debug\Collections_List.pdb
