@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace AccessModifierExample
+namespace Access_Modifier
 {
     public class MyClass
     {

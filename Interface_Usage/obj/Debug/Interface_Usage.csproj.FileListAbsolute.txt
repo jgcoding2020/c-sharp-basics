@@ -1,0 +1,6 @@
+C:\Users\jgard\My Programs\Programs C#\Interface_Usage\bin\Debug\Interface_Usage.exe.config
+C:\Users\jgard\My Programs\Programs C#\Interface_Usage\bin\Debug\Interface_Usage.exe
+C:\Users\jgard\My Programs\Programs C#\Interface_Usage\bin\Debug\Interface_Usage.pdb
+C:\Users\jgard\My Programs\Programs C#\Interface_Usage\obj\Debug\Interface_Usage.csproj.CoreCompileInputs.cache
+C:\Users\jgard\My Programs\Programs C#\Interface_Usage\obj\Debug\Interface_Usage.exe
+C:\Users\jgard\My Programs\Programs C#\Interface_Usage\obj\Debug\Interface_Usage.pdb

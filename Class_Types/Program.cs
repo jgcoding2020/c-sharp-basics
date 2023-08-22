@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ClassTypesExample
+namespace Class_Types
 {
     // Regular class
     class RegularClass
