@@ -1,0 +1,6 @@
+C:\Users\jgard\My Programs\Programs C#\LinkedList_Methods\bin\Debug\LinkedList_Methods.exe.config
+C:\Users\jgard\My Programs\Programs C#\LinkedList_Methods\bin\Debug\LinkedList_Methods.exe
+C:\Users\jgard\My Programs\Programs C#\LinkedList_Methods\bin\Debug\LinkedList_Methods.pdb
+C:\Users\jgard\My Programs\Programs C#\LinkedList_Methods\obj\Debug\LinkedList_Methods.csproj.CoreCompileInputs.cache
+C:\Users\jgard\My Programs\Programs C#\LinkedList_Methods\obj\Debug\LinkedList_Methods.exe
+C:\Users\jgard\My Programs\Programs C#\LinkedList_Methods\obj\Debug\LinkedList_Methods.pdb
