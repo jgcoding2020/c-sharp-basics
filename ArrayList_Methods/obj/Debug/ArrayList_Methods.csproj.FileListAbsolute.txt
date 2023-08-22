@@ -1,0 +1,6 @@
+C:\Users\jgard\My Programs\Programs C#\ArrayList_Methods\obj\Debug\ArrayList_Methods.csproj.CoreCompileInputs.cache
+C:\Users\jgard\My Programs\Programs C#\ArrayList_Methods\bin\Debug\ArrayList_Methods.exe.config
+C:\Users\jgard\My Programs\Programs C#\ArrayList_Methods\bin\Debug\ArrayList_Methods.exe
+C:\Users\jgard\My Programs\Programs C#\ArrayList_Methods\bin\Debug\ArrayList_Methods.pdb
+C:\Users\jgard\My Programs\Programs C#\ArrayList_Methods\obj\Debug\ArrayList_Methods.exe
+C:\Users\jgard\My Programs\Programs C#\ArrayList_Methods\obj\Debug\ArrayList_Methods.pdb
