@@ -1,26 +1,26 @@
-﻿using System;
+using System;
 
 namespace Access_Modifier
 {
     public class MyClass
     {
         // Public field (accessible from anywhere)
-        public int PublicField = 10;
+        public int publicField = 10;
 
         // Private field (accessible only within the class)
-        private int PrivateField = 20;
+        private int privateField = 20;
 
         // Protected field (accessible within the class and derived classes)
-        protected int ProtectedField = 30;
+        protected int protectedField = 30;
 
         // Internal field (accessible within the same assembly)
-        internal int InternalField = 40;
+        internal int internalField = 40;
 
         // Protected internal field (accessible within the same assembly and derived classes)
-        protected internal int ProtectedInternalField = 50;
+        protected internal int protectedInternalField = 50;
 
         // Private protected field (C# 7.2 and later, accessible within the same assembly and derived classes)
-        private protected int PrivateProtectedField = 60;
+        private protected int privateProtectedField = 60;
 
         // Public constructor (accessible from anywhere)
         public MyClass()
@@ -79,11 +79,11 @@ namespace Access_Modifier
             MyClass myObject = new MyClass();
 
             // Access members of MyClass with different access modifiers
-            Console.WriteLine("Public Field: " + myObject.PublicField);
+            Console.WriteLine("Public Field: " + myObject.publicField);
             // Console.WriteLine("Private Field: " + myObject.PrivateField); // Error, private field is not accessible from here
             // Console.WriteLine("Protected Field: " + myObject.ProtectedField); // Error, protected field is not accessible from here
-            Console.WriteLine("Internal Field: " + myObject.InternalField);
-            Console.WriteLine("Protected Internal Field: " + myObject.ProtectedInternalField);
+            Console.WriteLine("Internal Field: " + myObject.internalField);
+            Console.WriteLine("Protected Internal Field: " + myObject.protectedInternalField);
             // Console.WriteLine("Private Protected Field: " + myObject.PrivateProtectedField); // Error, private protected field is not accessible from here
 
             myObject.PublicMethod();
