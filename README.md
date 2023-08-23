@@ -6,7 +6,7 @@
 
 This repository and its contents are protected by the following copyright notice:
 
-© 2023 Joshua David Gardner
+© 2023 [Joshua David Gardner](https://github.com/jgcoding2020/c-sharp-basics)
 
 All rights reserved.
 
