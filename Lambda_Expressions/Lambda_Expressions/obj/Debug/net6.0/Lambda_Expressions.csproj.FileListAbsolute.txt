@@ -1,0 +1,14 @@
+C:\Users\jgard\My Programs\Programs C#\Lambda_Expressions\Lambda_Expressions\bin\Debug\net6.0\Lambda_Expressions.exe
+C:\Users\jgard\My Programs\Programs C#\Lambda_Expressions\Lambda_Expressions\bin\Debug\net6.0\Lambda_Expressions.deps.json
+C:\Users\jgard\My Programs\Programs C#\Lambda_Expressions\Lambda_Expressions\bin\Debug\net6.0\Lambda_Expressions.runtimeconfig.json
+C:\Users\jgard\My Programs\Programs C#\Lambda_Expressions\Lambda_Expressions\bin\Debug\net6.0\Lambda_Expressions.dll
+C:\Users\jgard\My Programs\Programs C#\Lambda_Expressions\Lambda_Expressions\bin\Debug\net6.0\Lambda_Expressions.pdb
+C:\Users\jgard\My Programs\Programs C#\Lambda_Expressions\Lambda_Expressions\obj\Debug\net6.0\Lambda_Expressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jgard\My Programs\Programs C#\Lambda_Expressions\Lambda_Expressions\obj\Debug\net6.0\Lambda_Expressions.AssemblyInfoInputs.cache
+C:\Users\jgard\My Programs\Programs C#\Lambda_Expressions\Lambda_Expressions\obj\Debug\net6.0\Lambda_Expressions.AssemblyInfo.cs
+C:\Users\jgard\My Programs\Programs C#\Lambda_Expressions\Lambda_Expressions\obj\Debug\net6.0\Lambda_Expressions.csproj.CoreCompileInputs.cache
+C:\Users\jgard\My Programs\Programs C#\Lambda_Expressions\Lambda_Expressions\obj\Debug\net6.0\Lambda_Expressions.dll
+C:\Users\jgard\My Programs\Programs C#\Lambda_Expressions\Lambda_Expressions\obj\Debug\net6.0\refint\Lambda_Expressions.dll
+C:\Users\jgard\My Programs\Programs C#\Lambda_Expressions\Lambda_Expressions\obj\Debug\net6.0\Lambda_Expressions.pdb
+C:\Users\jgard\My Programs\Programs C#\Lambda_Expressions\Lambda_Expressions\obj\Debug\net6.0\Lambda_Expressions.genruntimeconfig.cache
+C:\Users\jgard\My Programs\Programs C#\Lambda_Expressions\Lambda_Expressions\obj\Debug\net6.0\ref\Lambda_Expressions.dll
