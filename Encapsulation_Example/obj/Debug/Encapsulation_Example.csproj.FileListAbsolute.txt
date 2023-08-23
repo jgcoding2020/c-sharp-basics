@@ -1,0 +1,6 @@
+C:\Users\jgard\My Programs\Programs C#\Encapsulation_Example\bin\Debug\Encapsulation_Example.exe.config
+C:\Users\jgard\My Programs\Programs C#\Encapsulation_Example\bin\Debug\Encapsulation_Example.exe
+C:\Users\jgard\My Programs\Programs C#\Encapsulation_Example\bin\Debug\Encapsulation_Example.pdb
+C:\Users\jgard\My Programs\Programs C#\Encapsulation_Example\obj\Debug\Encapsulation_Example.csproj.CoreCompileInputs.cache
+C:\Users\jgard\My Programs\Programs C#\Encapsulation_Example\obj\Debug\Encapsulation_Example.exe
+C:\Users\jgard\My Programs\Programs C#\Encapsulation_Example\obj\Debug\Encapsulation_Example.pdb
