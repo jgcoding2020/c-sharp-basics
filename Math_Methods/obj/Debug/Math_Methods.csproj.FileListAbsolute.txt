@@ -1,0 +1,6 @@
+C:\Users\jgard\My Programs\Programs C#\Math_Methods\bin\Debug\Math_Methods.exe.config
+C:\Users\jgard\My Programs\Programs C#\Math_Methods\bin\Debug\Math_Methods.exe
+C:\Users\jgard\My Programs\Programs C#\Math_Methods\bin\Debug\Math_Methods.pdb
+C:\Users\jgard\My Programs\Programs C#\Math_Methods\obj\Debug\Math_Methods.csproj.CoreCompileInputs.cache
+C:\Users\jgard\My Programs\Programs C#\Math_Methods\obj\Debug\Math_Methods.exe
+C:\Users\jgard\My Programs\Programs C#\Math_Methods\obj\Debug\Math_Methods.pdb
