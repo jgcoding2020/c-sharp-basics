@@ -1,0 +1,14 @@
+C:\Users\jgard\My Programs\Programs C#\String_Formatting\String_Formatting\bin\Debug\net6.0\String_Formatting.exe
+C:\Users\jgard\My Programs\Programs C#\String_Formatting\String_Formatting\bin\Debug\net6.0\String_Formatting.deps.json
+C:\Users\jgard\My Programs\Programs C#\String_Formatting\String_Formatting\bin\Debug\net6.0\String_Formatting.runtimeconfig.json
+C:\Users\jgard\My Programs\Programs C#\String_Formatting\String_Formatting\bin\Debug\net6.0\String_Formatting.dll
+C:\Users\jgard\My Programs\Programs C#\String_Formatting\String_Formatting\bin\Debug\net6.0\String_Formatting.pdb
+C:\Users\jgard\My Programs\Programs C#\String_Formatting\String_Formatting\obj\Debug\net6.0\String_Formatting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jgard\My Programs\Programs C#\String_Formatting\String_Formatting\obj\Debug\net6.0\String_Formatting.AssemblyInfoInputs.cache
+C:\Users\jgard\My Programs\Programs C#\String_Formatting\String_Formatting\obj\Debug\net6.0\String_Formatting.AssemblyInfo.cs
+C:\Users\jgard\My Programs\Programs C#\String_Formatting\String_Formatting\obj\Debug\net6.0\String_Formatting.csproj.CoreCompileInputs.cache
+C:\Users\jgard\My Programs\Programs C#\String_Formatting\String_Formatting\obj\Debug\net6.0\String_Formatting.dll
+C:\Users\jgard\My Programs\Programs C#\String_Formatting\String_Formatting\obj\Debug\net6.0\refint\String_Formatting.dll
+C:\Users\jgard\My Programs\Programs C#\String_Formatting\String_Formatting\obj\Debug\net6.0\String_Formatting.pdb
+C:\Users\jgard\My Programs\Programs C#\String_Formatting\String_Formatting\obj\Debug\net6.0\String_Formatting.genruntimeconfig.cache
+C:\Users\jgard\My Programs\Programs C#\String_Formatting\String_Formatting\obj\Debug\net6.0\ref\String_Formatting.dll
