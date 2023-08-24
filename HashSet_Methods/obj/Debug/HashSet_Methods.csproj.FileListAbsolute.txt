@@ -1,7 +1,0 @@
-C:\Users\jgard\My Programs\Programs C#\HashSet_Methods\bin\Debug\HashSet_Methods.exe.config
-C:\Users\jgard\My Programs\Programs C#\HashSet_Methods\bin\Debug\HashSet_Methods.exe
-C:\Users\jgard\My Programs\Programs C#\HashSet_Methods\bin\Debug\HashSet_Methods.pdb
-C:\Users\jgard\My Programs\Programs C#\HashSet_Methods\obj\Debug\HashSet_Methods.csproj.AssemblyReference.cache
-C:\Users\jgard\My Programs\Programs C#\HashSet_Methods\obj\Debug\HashSet_Methods.csproj.CoreCompileInputs.cache
-C:\Users\jgard\My Programs\Programs C#\HashSet_Methods\obj\Debug\HashSet_Methods.exe
-C:\Users\jgard\My Programs\Programs C#\HashSet_Methods\obj\Debug\HashSet_Methods.pdb

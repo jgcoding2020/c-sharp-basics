@@ -1,6 +1,0 @@
-C:\Users\jgard\My Programs\Programs C#\IComparble_Equals\bin\Debug\IComparble_Equals.exe.config
-C:\Users\jgard\My Programs\Programs C#\IComparble_Equals\bin\Debug\IComparble_Equals.exe
-C:\Users\jgard\My Programs\Programs C#\IComparble_Equals\bin\Debug\IComparble_Equals.pdb
-C:\Users\jgard\My Programs\Programs C#\IComparble_Equals\obj\Debug\IComparble_Equals.csproj.CoreCompileInputs.cache
-C:\Users\jgard\My Programs\Programs C#\IComparble_Equals\obj\Debug\IComparble_Equals.exe
-C:\Users\jgard\My Programs\Programs C#\IComparble_Equals\obj\Debug\IComparble_Equals.pdb

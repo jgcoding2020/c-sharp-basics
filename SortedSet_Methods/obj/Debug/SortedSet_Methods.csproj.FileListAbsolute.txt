@@ -1,6 +1,0 @@
-C:\Users\jgard\My Programs\Programs C#\SortedSet_Methods\bin\Debug\SortedSet_Methods.exe.config
-C:\Users\jgard\My Programs\Programs C#\SortedSet_Methods\bin\Debug\SortedSet_Methods.exe
-C:\Users\jgard\My Programs\Programs C#\SortedSet_Methods\bin\Debug\SortedSet_Methods.pdb
-C:\Users\jgard\My Programs\Programs C#\SortedSet_Methods\obj\Debug\SortedSet_Methods.csproj.CoreCompileInputs.cache
-C:\Users\jgard\My Programs\Programs C#\SortedSet_Methods\obj\Debug\SortedSet_Methods.exe
-C:\Users\jgard\My Programs\Programs C#\SortedSet_Methods\obj\Debug\SortedSet_Methods.pdb

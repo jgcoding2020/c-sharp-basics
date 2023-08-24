@@ -1,7 +1,0 @@
-C:\Users\jgard\My Programs\Programs C#\Access_modifiers\bin\Debug\Access_modifiers.exe.config
-C:\Users\jgard\My Programs\Programs C#\Access_modifiers\bin\Debug\Access_modifiers.exe
-C:\Users\jgard\My Programs\Programs C#\Access_modifiers\bin\Debug\Access_modifiers.pdb
-C:\Users\jgard\My Programs\Programs C#\Access_modifiers\obj\Debug\Access_modifiers.csproj.CoreCompileInputs.cache
-C:\Users\jgard\My Programs\Programs C#\Access_modifiers\obj\Debug\Access_modifiers.exe
-C:\Users\jgard\My Programs\Programs C#\Access_modifiers\obj\Debug\Access_modifiers.pdb
-C:\Users\jgard\My Programs\Programs C#\Access_Modifiers\obj\Debug\Access_modifiers.csproj.AssemblyReference.cache

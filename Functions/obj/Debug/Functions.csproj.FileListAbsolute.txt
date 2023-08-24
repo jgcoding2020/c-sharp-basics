@@ -1,6 +1,0 @@
-C:\Users\jgard\My Programs\Programs C#\Functions\bin\Debug\Functions.exe.config
-C:\Users\jgard\My Programs\Programs C#\Functions\bin\Debug\Functions.exe
-C:\Users\jgard\My Programs\Programs C#\Functions\bin\Debug\Functions.pdb
-C:\Users\jgard\My Programs\Programs C#\Functions\obj\Debug\Functions.csproj.CoreCompileInputs.cache
-C:\Users\jgard\My Programs\Programs C#\Functions\obj\Debug\Functions.exe
-C:\Users\jgard\My Programs\Programs C#\Functions\obj\Debug\Functions.pdb

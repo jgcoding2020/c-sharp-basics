@@ -1,7 +1,0 @@
-C:\Users\jgard\My Programs\Programs C#\Conditional_Statements\bin\Debug\Conditional_Statements.exe.config
-C:\Users\jgard\My Programs\Programs C#\Conditional_Statements\bin\Debug\Conditional_Statements.exe
-C:\Users\jgard\My Programs\Programs C#\Conditional_Statements\bin\Debug\Conditional_Statements.pdb
-C:\Users\jgard\My Programs\Programs C#\Conditional_Statements\obj\Debug\Conditional_Statements.csproj.AssemblyReference.cache
-C:\Users\jgard\My Programs\Programs C#\Conditional_Statements\obj\Debug\Conditional_Statements.csproj.CoreCompileInputs.cache
-C:\Users\jgard\My Programs\Programs C#\Conditional_Statements\obj\Debug\Conditional_Statements.exe
-C:\Users\jgard\My Programs\Programs C#\Conditional_Statements\obj\Debug\Conditional_Statements.pdb

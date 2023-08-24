@@ -1,6 +1,0 @@
-C:\Users\jgard\My Programs\Programs C#\IComparable_Interface\bin\Debug\IComparable_Interface.exe.config
-C:\Users\jgard\My Programs\Programs C#\IComparable_Interface\bin\Debug\IComparable_Interface.exe
-C:\Users\jgard\My Programs\Programs C#\IComparable_Interface\bin\Debug\IComparable_Interface.pdb
-C:\Users\jgard\My Programs\Programs C#\IComparable_Interface\obj\Debug\IComparable_Interface.csproj.CoreCompileInputs.cache
-C:\Users\jgard\My Programs\Programs C#\IComparable_Interface\obj\Debug\IComparable_Interface.exe
-C:\Users\jgard\My Programs\Programs C#\IComparable_Interface\obj\Debug\IComparable_Interface.pdb

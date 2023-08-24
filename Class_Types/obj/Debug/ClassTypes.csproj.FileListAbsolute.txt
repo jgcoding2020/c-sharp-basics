@@ -1,7 +1,0 @@
-C:\Users\jgard\My Programs\Programs C#\ClassTypes\bin\Debug\ClassTypes.exe.config
-C:\Users\jgard\My Programs\Programs C#\ClassTypes\bin\Debug\ClassTypes.exe
-C:\Users\jgard\My Programs\Programs C#\ClassTypes\bin\Debug\ClassTypes.pdb
-C:\Users\jgard\My Programs\Programs C#\ClassTypes\obj\Debug\ClassTypes.csproj.AssemblyReference.cache
-C:\Users\jgard\My Programs\Programs C#\ClassTypes\obj\Debug\ClassTypes.csproj.CoreCompileInputs.cache
-C:\Users\jgard\My Programs\Programs C#\ClassTypes\obj\Debug\ClassTypes.exe
-C:\Users\jgard\My Programs\Programs C#\ClassTypes\obj\Debug\ClassTypes.pdb

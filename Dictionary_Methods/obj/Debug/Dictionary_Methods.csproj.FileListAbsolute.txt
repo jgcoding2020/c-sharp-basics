@@ -1,6 +1,0 @@
-C:\Users\jgard\My Programs\Programs C#\Dictionary_Methods\bin\Debug\Dictionary_Methods.exe.config
-C:\Users\jgard\My Programs\Programs C#\Dictionary_Methods\bin\Debug\Dictionary_Methods.exe
-C:\Users\jgard\My Programs\Programs C#\Dictionary_Methods\bin\Debug\Dictionary_Methods.pdb
-C:\Users\jgard\My Programs\Programs C#\Dictionary_Methods\obj\Debug\Dictionary_Methods.csproj.CoreCompileInputs.cache
-C:\Users\jgard\My Programs\Programs C#\Dictionary_Methods\obj\Debug\Dictionary_Methods.exe
-C:\Users\jgard\My Programs\Programs C#\Dictionary_Methods\obj\Debug\Dictionary_Methods.pdb

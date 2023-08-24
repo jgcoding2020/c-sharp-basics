@@ -1,7 +1,0 @@
-C:\Users\jgard\My Programs\Programs C#\Loops\bin\Debug\Loops.exe.config
-C:\Users\jgard\My Programs\Programs C#\Loops\bin\Debug\Loops.exe
-C:\Users\jgard\My Programs\Programs C#\Loops\bin\Debug\Loops.pdb
-C:\Users\jgard\My Programs\Programs C#\Loops\obj\Debug\Loops.csproj.AssemblyReference.cache
-C:\Users\jgard\My Programs\Programs C#\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
-C:\Users\jgard\My Programs\Programs C#\Loops\obj\Debug\Loops.exe
-C:\Users\jgard\My Programs\Programs C#\Loops\obj\Debug\Loops.pdb
