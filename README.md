@@ -1,6 +1,6 @@
 # c-sharp-basics
 
-**Author:** [Joshua David Gardner](https://github.com/jgcoding2020/c-sharp-basics)
+**Author:** [Joshua David Gardner](https://jgcoding2020.github.io/My-Portfolio/)
 
 ## Copyright Notice
 
