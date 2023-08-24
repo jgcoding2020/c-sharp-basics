@@ -1,0 +1,14 @@
+C:\Users\jgard\My Programs\Programs C#\Operator_Types\Operator_Types\bin\Debug\net6.0\Operator_Types.exe
+C:\Users\jgard\My Programs\Programs C#\Operator_Types\Operator_Types\bin\Debug\net6.0\Operator_Types.deps.json
+C:\Users\jgard\My Programs\Programs C#\Operator_Types\Operator_Types\bin\Debug\net6.0\Operator_Types.runtimeconfig.json
+C:\Users\jgard\My Programs\Programs C#\Operator_Types\Operator_Types\bin\Debug\net6.0\Operator_Types.dll
+C:\Users\jgard\My Programs\Programs C#\Operator_Types\Operator_Types\bin\Debug\net6.0\Operator_Types.pdb
+C:\Users\jgard\My Programs\Programs C#\Operator_Types\Operator_Types\obj\Debug\net6.0\Operator_Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jgard\My Programs\Programs C#\Operator_Types\Operator_Types\obj\Debug\net6.0\Operator_Types.AssemblyInfoInputs.cache
+C:\Users\jgard\My Programs\Programs C#\Operator_Types\Operator_Types\obj\Debug\net6.0\Operator_Types.AssemblyInfo.cs
+C:\Users\jgard\My Programs\Programs C#\Operator_Types\Operator_Types\obj\Debug\net6.0\Operator_Types.csproj.CoreCompileInputs.cache
+C:\Users\jgard\My Programs\Programs C#\Operator_Types\Operator_Types\obj\Debug\net6.0\Operator_Types.dll
+C:\Users\jgard\My Programs\Programs C#\Operator_Types\Operator_Types\obj\Debug\net6.0\refint\Operator_Types.dll
+C:\Users\jgard\My Programs\Programs C#\Operator_Types\Operator_Types\obj\Debug\net6.0\Operator_Types.pdb
+C:\Users\jgard\My Programs\Programs C#\Operator_Types\Operator_Types\obj\Debug\net6.0\Operator_Types.genruntimeconfig.cache
+C:\Users\jgard\My Programs\Programs C#\Operator_Types\Operator_Types\obj\Debug\net6.0\ref\Operator_Types.dll
