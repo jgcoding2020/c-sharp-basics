@@ -1,0 +1,14 @@
+C:\Users\jgard\My Programs\Programs C#\IO_Types\IO_Types\bin\Debug\net6.0\IO_Types.exe
+C:\Users\jgard\My Programs\Programs C#\IO_Types\IO_Types\bin\Debug\net6.0\IO_Types.deps.json
+C:\Users\jgard\My Programs\Programs C#\IO_Types\IO_Types\bin\Debug\net6.0\IO_Types.runtimeconfig.json
+C:\Users\jgard\My Programs\Programs C#\IO_Types\IO_Types\bin\Debug\net6.0\IO_Types.dll
+C:\Users\jgard\My Programs\Programs C#\IO_Types\IO_Types\bin\Debug\net6.0\IO_Types.pdb
+C:\Users\jgard\My Programs\Programs C#\IO_Types\IO_Types\obj\Debug\net6.0\IO_Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jgard\My Programs\Programs C#\IO_Types\IO_Types\obj\Debug\net6.0\IO_Types.AssemblyInfoInputs.cache
+C:\Users\jgard\My Programs\Programs C#\IO_Types\IO_Types\obj\Debug\net6.0\IO_Types.AssemblyInfo.cs
+C:\Users\jgard\My Programs\Programs C#\IO_Types\IO_Types\obj\Debug\net6.0\IO_Types.csproj.CoreCompileInputs.cache
+C:\Users\jgard\My Programs\Programs C#\IO_Types\IO_Types\obj\Debug\net6.0\IO_Types.dll
+C:\Users\jgard\My Programs\Programs C#\IO_Types\IO_Types\obj\Debug\net6.0\refint\IO_Types.dll
+C:\Users\jgard\My Programs\Programs C#\IO_Types\IO_Types\obj\Debug\net6.0\IO_Types.pdb
+C:\Users\jgard\My Programs\Programs C#\IO_Types\IO_Types\obj\Debug\net6.0\IO_Types.genruntimeconfig.cache
+C:\Users\jgard\My Programs\Programs C#\IO_Types\IO_Types\obj\Debug\net6.0\ref\IO_Types.dll
