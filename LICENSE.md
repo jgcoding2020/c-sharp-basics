@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2023 Joshua David Gardner
+Copyright (c) 2023 [Joshua David Gardner](https://jgcoding2020.github.io/My-Portfolio/)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
