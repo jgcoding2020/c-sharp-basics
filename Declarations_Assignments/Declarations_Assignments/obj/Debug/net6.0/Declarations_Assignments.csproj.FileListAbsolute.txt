@@ -1,0 +1,14 @@
+C:\Users\jgard\My Programs\Programs C#\Declarations_Assignments\Declarations_Assignments\bin\Debug\net6.0\Declarations_Assignments.exe
+C:\Users\jgard\My Programs\Programs C#\Declarations_Assignments\Declarations_Assignments\bin\Debug\net6.0\Declarations_Assignments.deps.json
+C:\Users\jgard\My Programs\Programs C#\Declarations_Assignments\Declarations_Assignments\bin\Debug\net6.0\Declarations_Assignments.runtimeconfig.json
+C:\Users\jgard\My Programs\Programs C#\Declarations_Assignments\Declarations_Assignments\bin\Debug\net6.0\Declarations_Assignments.dll
+C:\Users\jgard\My Programs\Programs C#\Declarations_Assignments\Declarations_Assignments\bin\Debug\net6.0\Declarations_Assignments.pdb
+C:\Users\jgard\My Programs\Programs C#\Declarations_Assignments\Declarations_Assignments\obj\Debug\net6.0\Declarations_Assignments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jgard\My Programs\Programs C#\Declarations_Assignments\Declarations_Assignments\obj\Debug\net6.0\Declarations_Assignments.AssemblyInfoInputs.cache
+C:\Users\jgard\My Programs\Programs C#\Declarations_Assignments\Declarations_Assignments\obj\Debug\net6.0\Declarations_Assignments.AssemblyInfo.cs
+C:\Users\jgard\My Programs\Programs C#\Declarations_Assignments\Declarations_Assignments\obj\Debug\net6.0\Declarations_Assignments.csproj.CoreCompileInputs.cache
+C:\Users\jgard\My Programs\Programs C#\Declarations_Assignments\Declarations_Assignments\obj\Debug\net6.0\Declarations_Assignments.dll
+C:\Users\jgard\My Programs\Programs C#\Declarations_Assignments\Declarations_Assignments\obj\Debug\net6.0\refint\Declarations_Assignments.dll
+C:\Users\jgard\My Programs\Programs C#\Declarations_Assignments\Declarations_Assignments\obj\Debug\net6.0\Declarations_Assignments.pdb
+C:\Users\jgard\My Programs\Programs C#\Declarations_Assignments\Declarations_Assignments\obj\Debug\net6.0\Declarations_Assignments.genruntimeconfig.cache
+C:\Users\jgard\My Programs\Programs C#\Declarations_Assignments\Declarations_Assignments\obj\Debug\net6.0\ref\Declarations_Assignments.dll
