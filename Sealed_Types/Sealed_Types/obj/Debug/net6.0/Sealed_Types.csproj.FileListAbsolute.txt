@@ -1,0 +1,14 @@
+C:\Users\jgard\My Programs\Programs C#\Sealed_Types\Sealed_Types\bin\Debug\net6.0\Sealed_Types.exe
+C:\Users\jgard\My Programs\Programs C#\Sealed_Types\Sealed_Types\bin\Debug\net6.0\Sealed_Types.deps.json
+C:\Users\jgard\My Programs\Programs C#\Sealed_Types\Sealed_Types\bin\Debug\net6.0\Sealed_Types.runtimeconfig.json
+C:\Users\jgard\My Programs\Programs C#\Sealed_Types\Sealed_Types\bin\Debug\net6.0\Sealed_Types.dll
+C:\Users\jgard\My Programs\Programs C#\Sealed_Types\Sealed_Types\bin\Debug\net6.0\Sealed_Types.pdb
+C:\Users\jgard\My Programs\Programs C#\Sealed_Types\Sealed_Types\obj\Debug\net6.0\Sealed_Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jgard\My Programs\Programs C#\Sealed_Types\Sealed_Types\obj\Debug\net6.0\Sealed_Types.AssemblyInfoInputs.cache
+C:\Users\jgard\My Programs\Programs C#\Sealed_Types\Sealed_Types\obj\Debug\net6.0\Sealed_Types.AssemblyInfo.cs
+C:\Users\jgard\My Programs\Programs C#\Sealed_Types\Sealed_Types\obj\Debug\net6.0\Sealed_Types.csproj.CoreCompileInputs.cache
+C:\Users\jgard\My Programs\Programs C#\Sealed_Types\Sealed_Types\obj\Debug\net6.0\Sealed_Types.dll
+C:\Users\jgard\My Programs\Programs C#\Sealed_Types\Sealed_Types\obj\Debug\net6.0\refint\Sealed_Types.dll
+C:\Users\jgard\My Programs\Programs C#\Sealed_Types\Sealed_Types\obj\Debug\net6.0\Sealed_Types.pdb
+C:\Users\jgard\My Programs\Programs C#\Sealed_Types\Sealed_Types\obj\Debug\net6.0\Sealed_Types.genruntimeconfig.cache
+C:\Users\jgard\My Programs\Programs C#\Sealed_Types\Sealed_Types\obj\Debug\net6.0\ref\Sealed_Types.dll

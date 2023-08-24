@@ -1,0 +1,7 @@
+C:\Users\jgard\My Programs\Programs C#\Inheritance_Types\bin\Debug\Inheritance_Types.exe.config
+C:\Users\jgard\My Programs\Programs C#\Inheritance_Types\bin\Debug\Inheritance_Types.exe
+C:\Users\jgard\My Programs\Programs C#\Inheritance_Types\bin\Debug\Inheritance_Types.pdb
+C:\Users\jgard\My Programs\Programs C#\Inheritance_Types\obj\Debug\Inheritance_Types.csproj.AssemblyReference.cache
+C:\Users\jgard\My Programs\Programs C#\Inheritance_Types\obj\Debug\Inheritance_Types.csproj.CoreCompileInputs.cache
+C:\Users\jgard\My Programs\Programs C#\Inheritance_Types\obj\Debug\Inheritance_Types.exe
+C:\Users\jgard\My Programs\Programs C#\Inheritance_Types\obj\Debug\Inheritance_Types.pdb

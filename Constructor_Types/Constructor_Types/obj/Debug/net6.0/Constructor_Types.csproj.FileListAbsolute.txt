@@ -1,0 +1,14 @@
+C:\Users\jgard\My Programs\Programs C#\Constructor_Types\Constructor_Types\bin\Debug\net6.0\Constructor_Types.exe
+C:\Users\jgard\My Programs\Programs C#\Constructor_Types\Constructor_Types\bin\Debug\net6.0\Constructor_Types.deps.json
+C:\Users\jgard\My Programs\Programs C#\Constructor_Types\Constructor_Types\bin\Debug\net6.0\Constructor_Types.runtimeconfig.json
+C:\Users\jgard\My Programs\Programs C#\Constructor_Types\Constructor_Types\bin\Debug\net6.0\Constructor_Types.dll
+C:\Users\jgard\My Programs\Programs C#\Constructor_Types\Constructor_Types\bin\Debug\net6.0\Constructor_Types.pdb
+C:\Users\jgard\My Programs\Programs C#\Constructor_Types\Constructor_Types\obj\Debug\net6.0\Constructor_Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jgard\My Programs\Programs C#\Constructor_Types\Constructor_Types\obj\Debug\net6.0\Constructor_Types.AssemblyInfoInputs.cache
+C:\Users\jgard\My Programs\Programs C#\Constructor_Types\Constructor_Types\obj\Debug\net6.0\Constructor_Types.AssemblyInfo.cs
+C:\Users\jgard\My Programs\Programs C#\Constructor_Types\Constructor_Types\obj\Debug\net6.0\Constructor_Types.csproj.CoreCompileInputs.cache
+C:\Users\jgard\My Programs\Programs C#\Constructor_Types\Constructor_Types\obj\Debug\net6.0\Constructor_Types.dll
+C:\Users\jgard\My Programs\Programs C#\Constructor_Types\Constructor_Types\obj\Debug\net6.0\refint\Constructor_Types.dll
+C:\Users\jgard\My Programs\Programs C#\Constructor_Types\Constructor_Types\obj\Debug\net6.0\Constructor_Types.pdb
+C:\Users\jgard\My Programs\Programs C#\Constructor_Types\Constructor_Types\obj\Debug\net6.0\Constructor_Types.genruntimeconfig.cache
+C:\Users\jgard\My Programs\Programs C#\Constructor_Types\Constructor_Types\obj\Debug\net6.0\ref\Constructor_Types.dll

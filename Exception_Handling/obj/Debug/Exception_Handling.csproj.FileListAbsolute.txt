@@ -1,0 +1,6 @@
+C:\Users\jgard\My Programs\Programs C#\Exception_Handling\obj\Debug\Exception_Handling.csproj.CoreCompileInputs.cache
+C:\Users\jgard\My Programs\Programs C#\Exception_Handling\bin\Debug\Exception_Handling.exe.config
+C:\Users\jgard\My Programs\Programs C#\Exception_Handling\bin\Debug\Exception_Handling.exe
+C:\Users\jgard\My Programs\Programs C#\Exception_Handling\bin\Debug\Exception_Handling.pdb
+C:\Users\jgard\My Programs\Programs C#\Exception_Handling\obj\Debug\Exception_Handling.exe
+C:\Users\jgard\My Programs\Programs C#\Exception_Handling\obj\Debug\Exception_Handling.pdb

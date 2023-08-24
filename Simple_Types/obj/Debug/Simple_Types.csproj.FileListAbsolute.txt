@@ -1,0 +1,7 @@
+C:\Users\jgard\My Programs\Programs C#\Simple_Types\bin\Debug\Simple_Types.exe.config
+C:\Users\jgard\My Programs\Programs C#\Simple_Types\bin\Debug\Simple_Types.exe
+C:\Users\jgard\My Programs\Programs C#\Simple_Types\bin\Debug\Simple_Types.pdb
+C:\Users\jgard\My Programs\Programs C#\Simple_Types\obj\Debug\Simple_Types.csproj.AssemblyReference.cache
+C:\Users\jgard\My Programs\Programs C#\Simple_Types\obj\Debug\Simple_Types.csproj.CoreCompileInputs.cache
+C:\Users\jgard\My Programs\Programs C#\Simple_Types\obj\Debug\Simple_Types.exe
+C:\Users\jgard\My Programs\Programs C#\Simple_Types\obj\Debug\Simple_Types.pdb
