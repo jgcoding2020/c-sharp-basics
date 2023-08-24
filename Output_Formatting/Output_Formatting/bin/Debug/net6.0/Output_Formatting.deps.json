@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Output_Formatting/1.0.0": {
+        "runtime": {
+          "Output_Formatting.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Output_Formatting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\jgard\My Programs\Programs C#\Output_Formatting\Output_Formatting\bin\Debug\net6.0\Output_Formatting.exe
+C:\Users\jgard\My Programs\Programs C#\Output_Formatting\Output_Formatting\bin\Debug\net6.0\Output_Formatting.deps.json
+C:\Users\jgard\My Programs\Programs C#\Output_Formatting\Output_Formatting\bin\Debug\net6.0\Output_Formatting.runtimeconfig.json
+C:\Users\jgard\My Programs\Programs C#\Output_Formatting\Output_Formatting\bin\Debug\net6.0\Output_Formatting.dll
+C:\Users\jgard\My Programs\Programs C#\Output_Formatting\Output_Formatting\bin\Debug\net6.0\Output_Formatting.pdb
+C:\Users\jgard\My Programs\Programs C#\Output_Formatting\Output_Formatting\obj\Debug\net6.0\Output_Formatting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jgard\My Programs\Programs C#\Output_Formatting\Output_Formatting\obj\Debug\net6.0\Output_Formatting.AssemblyInfoInputs.cache
+C:\Users\jgard\My Programs\Programs C#\Output_Formatting\Output_Formatting\obj\Debug\net6.0\Output_Formatting.AssemblyInfo.cs
+C:\Users\jgard\My Programs\Programs C#\Output_Formatting\Output_Formatting\obj\Debug\net6.0\Output_Formatting.csproj.CoreCompileInputs.cache
+C:\Users\jgard\My Programs\Programs C#\Output_Formatting\Output_Formatting\obj\Debug\net6.0\Output_Formatting.dll
+C:\Users\jgard\My Programs\Programs C#\Output_Formatting\Output_Formatting\obj\Debug\net6.0\refint\Output_Formatting.dll
+C:\Users\jgard\My Programs\Programs C#\Output_Formatting\Output_Formatting\obj\Debug\net6.0\Output_Formatting.pdb
+C:\Users\jgard\My Programs\Programs C#\Output_Formatting\Output_Formatting\obj\Debug\net6.0\Output_Formatting.genruntimeconfig.cache
+C:\Users\jgard\My Programs\Programs C#\Output_Formatting\Output_Formatting\obj\Debug\net6.0\ref\Output_Formatting.dll
